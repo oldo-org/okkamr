@@ -42,3 +42,6 @@ id,name,domain_id
 person_x_email:
 person_id,email_id
 000,000
+
+person_x_address:
+person_id,country_id,region,town,street,number,postal_code,details
