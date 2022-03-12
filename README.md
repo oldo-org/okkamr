@@ -1,11 +1,11 @@
 # okkanr
 
-O - Oldo's
-K - Kontakt
-K - Kalender
-A - Aufgaben
-N - Nachricht
-R - "Rasierer" / raiser / racer / runboxer / rrr
+- O - Oldo's
+- K - Kontakt
+- K - Kalender
+- A - Aufgaben
+- N - Nachricht
+- R - "Rasierer" / raiser / racer / runboxer / rrr
 
 Focus on client side
 
