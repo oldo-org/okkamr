@@ -1,10 +1,10 @@
-# okkanr
+# okkamr
 
 - O - Oldo's
 - K - Kontakt
 - K - Kalender
 - A - Aufgaben
-- N - Nachricht
+- M - Mitteilungs
 - R - "Rasierer" / raiser / racer / runboxer / rrr
 
 Focus on client side
